@@ -1,15 +1,3 @@
-Estudos de Full-Stack Web development Bootcamp, curso:
-https://www.udemy.com/course/the-complete-web-development-bootcamp/?srsltid=AfmBOooqgv8RubCOPagyjaubQZac7hLL0Is7wd_cRS-D6qXJpUzusySS&couponCode=MT251006G5
-
-📘 45 minutos por dia × 5 dias por semana (estilo Duolingo)
-📆 Duração total do curso: ~61h
-
-61h ÷ (0,75h × 5 dias) = 16,3 semanas ≈ 4 meses
-por volta de 03 de fevereiro de 2026 
-
-
-🗓️ Cronograma — The Complete Full-Stack Web Development Bootcamp (Angela Yu)
-
 # 🧠 Full-Stack Web Development Bootcamp — Progresso de Estudo
 
 **Curso:** [The Complete 2025 Web Development Bootcamp – Angela Yu (Udemy)](https://www.udemy.com/course/the-complete-web-development-bootcamp/)  
@@ -19,11 +7,17 @@ por volta de 03 de fevereiro de 2026
 **Total:** ~61h de conteúdo  
 **Total de seções:** 44 | **Total de aulas:** 374
 
+📘 45 minutos por dia × 5 dias por semana (estilo Duolingo)
+📆 Duração total do curso: ~61h
+
+61h ÷ (0,75h × 5 dias) = 16,3 semanas ≈ 4 meses
+por volta de 03 de fevereiro de 2026 
+
 🎯 Objetivo
 Estudar Web Development de forma consistente e sustentável,
 no estilo Duolingo de código: um pouco todos os dias, sem sobrecarga.
 Meta: dominar HTML, CSS, JavaScript, Node.js, React, e fundamentos de Web3
-até o final de fevereiro de 2026.
+até o começo de fevereiro de 2026.
 
 
 📅 Cronograma de Estudo
