@@ -51,7 +51,7 @@ por volta de 28 de fevereiro de 2026
 
 ## 🧩 Extras
 
-- [x ] Desafios de código (7)  
+- [x] Desafios de código (7)  
 - [ ] Artigos e recursos extras (66)  
 - [ ] Downloads e cheatsheets (194)  
 - [ ] Certificado Udemy 🏆  
