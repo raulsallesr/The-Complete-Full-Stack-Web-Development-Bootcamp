@@ -31,7 +31,7 @@ até o final de fevereiro de 2026.
 | Nº | Seção                               | Conteúdo Principal                         | 📆 Data Prevista | ✅ Status |
 | -- | ----------------------------------- | ------------------------------------------ | ---------------- | -------- |
 | 1  | Front-End Web Development           | Introdução e visão geral                   | 06/10/2025       | - [x]    |
-| 2  | Introduction to HTML                | Estrutura e sintaxe básica                 | 08/10/2025       | - [ ]    |
+| 2  | Introduction to HTML                | Estrutura e sintaxe básica                 | 08/10/2025       | - [x]    |
 | 3  | Intermediate HTML                   | Tags, listas, imagens, links               | 10/10/2025       | - [ ]    |
 | 4  | Multi Page Websites                 | Navegação entre páginas                    | 13/10/2025       | - [ ]    |
 | 5  | Introduction to CSS                 | Fundamentos e seletores                    | 15/10/2025       | - [ ]    |
