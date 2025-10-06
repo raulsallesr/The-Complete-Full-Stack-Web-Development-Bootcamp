@@ -4,14 +4,11 @@ https://www.udemy.com/course/the-complete-web-development-bootcamp/?srsltid=AfmB
 📘 45 minutos por dia × 5 dias por semana (estilo Duolingo)
 📆 Duração total do curso: ~61h
 
-👉 61h ÷ (0,75h × 5 dias) = 16,3 semanas ≈ 4 meses
-Ou seja, você vai terminar o curso por volta de 28 de fevereiro de 2026 🎯
+61h ÷ (0,75h × 5 dias) = 16,3 semanas ≈ 4 meses
+por volta de 28 de fevereiro de 2026 
+
 
 🗓️ Cronograma — The Complete Full-Stack Web Development Bootcamp (Angela Yu)
-
-Início: 06/10/2025
-Término previsto: 28/02/2026
-Ritmo: 45 min/dia × 5 dias/semana
 
 # 🧠 Full-Stack Web Development Bootcamp — Progresso de Estudo
 
@@ -27,7 +24,7 @@ Ritmo: 45 min/dia × 5 dias/semana
 
 | Nº | Seção | Conteúdo Principal | 📆 Data Prevista | ✅ Status |
 |----|--------|--------------------|-----------------|-----------|
-| 1 | Introduction | Setup do ambiente e visão geral do curso | 08/10/2025 | - [ ] |
+| 1 | Introduction | Setup do ambiente e visão geral do curso | 08/10/2025 | - [x] |
 | 2 | Front-End Web Development | O que é front-end e overview das tecnologias | 10/10/2025 | - [ ] |
 | 3 | HTML 5 | Estrutura, tags, links, imagens | 17/10/2025 | - [ ] |
 | 4 | Intermediate HTML | Tabelas, formulários, boas práticas | 24/10/2025 | - [ ] |
