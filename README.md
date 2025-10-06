@@ -29,7 +29,7 @@ até o final de fevereiro de 2026.
 📅 Cronograma de Estudo
 | Nº | Seção / Módulo                      | Nº Aulas | Duração | Início     | Término    | ✅ Status |
 | -- | ----------------------------------- | -------- | ------- | ---------- | ---------- | -------- |
-| 1  | Front-End Web Development           | 9        | 37m     | 06/10/2025 | 06/10/2025 |   [x]    |
+| 1  | Front-End Web Development           | 9        | 37m     | 06/10/2025 | 06/10/2025 | - [x]    |
 | 2  | Introduction to HTML                | 8        | 49m     | 07/10/2025 | 07/10/2025 | - [x]    |
 | 3  | Intermediate HTML                   | 7        | 52m     | 08/10/2025 | 08/10/2025 | - [x]    |
 | 4  | Multi Page Websites                 | 7        | 1h10m   | 09/10/2025 | 10/10/2025 | - [ ]    |
